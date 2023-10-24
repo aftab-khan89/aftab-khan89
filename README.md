@@ -1,6 +1,4 @@
-<h1>Hi, I'm Aftab! 
-  <br/>Computer Engineer, Cybersecurity Enthusiast</a>
-</h1>
+<h1>Hi, I'm Aftab!</h1>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
